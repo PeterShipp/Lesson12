@@ -38,7 +38,7 @@ namespace Lesson12_Lambda_Expression
             Console.WriteLine(variable.Invoke(thisNum, thatNum));
 
             //Normal Way
-            string name = "Jonathan";
+            string name = "Peter";
             SayHello(name);
 
             //Lambda Way
